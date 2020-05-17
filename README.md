@@ -6,3 +6,5 @@
  
 # cara tes di postman
  lihat di file server.ts app.listen ada concat host dan port (127.0.0.1:8000)
+ 127.0.0.1:8000/person (GET & POST)
+ 127.0.0.1:8000/person/id_person (GET, PUT, DELETE)
